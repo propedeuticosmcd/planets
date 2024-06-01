@@ -1,4 +1,8 @@
 Cold and dry, but evrything is my favorite color.
 The tow moons may be a problem for wolfman
 But the Mummy will appreciate the lack of huminity
+<<<<<<< HEAD
 We added a different line in the order copy
+=======
+This line added to Wolfman's copy
+>>>>>>> cc71d5e0ebe41bd6e9bd161ae752fa232a1fc16a
